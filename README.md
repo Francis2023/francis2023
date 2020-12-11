@@ -7,5 +7,7 @@ My skill set includes Python, React, Node.js, JavaScript, Redux, HTML & CSS, RES
 You can contact me via:
 
 Email: fngafua2023@gmail.com
+
 Cell: 8018608261
+
 LinkedIn: https://www.linkedin.com/in/francisngafua/
